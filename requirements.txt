@@ -5,10 +5,7 @@ scikit-learn
 numpy
 joblib
 prophet
-<<<<<<< HEAD
 xgboost
 sklearn
-=======
 flask
 gunicorn
->>>>>>> 84be9ff555ad4e5c2db889dbafa657cc87fccaa4
