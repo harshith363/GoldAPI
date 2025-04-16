@@ -6,6 +6,6 @@ numpy
 joblib
 prophet
 xgboost
-sklearn
+scikit-learn
 flask
 gunicorn
